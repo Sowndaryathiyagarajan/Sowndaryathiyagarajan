@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis & Problem Solving
 - 🌱 I’m currently learning Python & Data Science
 - 💞️ I’m looking to collaborate on Projects & Internships
-- 📫 How to reach me Mail : tswondarya15@gmail.com
+- 📫 How to reach me Mail : tsowndarya15@gmail.com
 
 <!---
 Sowndaryathiyagarajan/Sowndaryathiyagarajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
